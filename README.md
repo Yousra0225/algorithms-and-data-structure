@@ -9,7 +9,7 @@ This repository presents the study of fundamental algorithms and data structures
 - **Algorithms**: We explore different algorithm types such as sorting, searching, and optimization. The focus is on understanding their efficiency, particularly in terms of time and space complexity.
 
 - **Hands-on Exercises**: 
-  - **![Bloom Filter](tpbloomfilter)** : A probabilistic data structure used to test whether an element is a member of a set.
+  - **![Bloom Filter](tp-bloomfilter)** : A probabilistic data structure used to test whether an element is a member of a set.
   - **![Iterator Pattern](TP4_itérateur)**: Practical implementation of the iterator design pattern.
   - **[Quick Sort](TP5_tres_rapide)**: Efficient sorting algorithm for large datasets.
 
